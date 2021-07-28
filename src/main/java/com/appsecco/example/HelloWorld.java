@@ -55,7 +55,8 @@ public class HelloWorld extends ExampleSupport {
      *
      * @param message Text to display on HelloWorld page.
      */
+    /**
     public void setMessage(String message) {
         this.message = message;
-    }
+    }*/
 }
